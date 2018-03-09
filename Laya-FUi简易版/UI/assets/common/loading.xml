@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="53,50">
+  <displayList>
+    <image id="n0" name="img_loading" src="i8cp68" xy="0,0" pivot="0.5,0.5" size="53,50" aspect="true"/>
+    <text id="n1" name="lbl_progress" xy="0,11" size="53,28" fontSize="14" align="center" vAlign="middle" leading="0" autoSize="none" text="100%"/>
+  </displayList>
+</component>

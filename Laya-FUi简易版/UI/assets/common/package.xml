@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="etmmpigg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="k2ag4x" name="SceneLogin.xml" path="/" exported="true"/>
+    <component id="k2ag4y" name="btn_image.xml" path="/" exported="true"/>
+    <component id="k2ag54" name="btn_bottom.xml" path="/" exported="true"/>
+    <component id="k2ag55" name="layerMain.xml" path="/" exported="true"/>
+    <image id="i8cp68" name="loading_run.png" path="/res/" exported="true"/>
+    <component id="ps4d69" name="toast.xml" path="/" exported="true"/>
+    <image id="ps4d6a" name="toast_bg.png" path="/res/" exported="true"/>
+    <component id="ps4d6b" name="loading.xml" path="/" exported="true"/>
+    <image id="ps4d6c" name="bg.png" path="/res/"/>
+  </resources>
+  <publish name="common"/>
+</packageDescription>
