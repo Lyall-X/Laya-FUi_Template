@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,45" opaque="false">
+  <displayList>
+    <image id="n0" name="n0" src="ps4d6a" xy="0,0" size="400,45">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n1" name="lbl_msg" xy="50,8" size="300,29" font="微软雅黑" fontSize="18" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" bold="true" strokeColor="#000000" singleLine="true" text="213213">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </richtext>
+  </displayList>
+</component>

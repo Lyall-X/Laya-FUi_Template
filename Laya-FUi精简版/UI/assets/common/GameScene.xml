@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" opaque="false" bgColorEnabled="true" bgColor="#000000">
+  <controller name="ctrl_bottom" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n98_ps4d" name="n98" src="ps4d6c" xy="0,0" size="640,1136"/>
+    <text id="n97_i8cp" name="n97" xy="219,543" size="205,49" fontSize="40" text="游戏主界面"/>
+  </displayList>
+</component>

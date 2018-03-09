@@ -1,0 +1,15 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"",
+		"codePath":"",
+		"codeType":"",
+		"getMemberByName":false,
+		"ignoreNoname":true,
+		"memberNamePrefix":"",
+		"packageName":""
+	},
+	"compressDesc":true,
+	"fileExtension":"bin",
+	"packageCount":2,
+	"path":"C:\\Users\\Administrator\\Desktop\\保安\\game\\bin\\res\\fui"
+}

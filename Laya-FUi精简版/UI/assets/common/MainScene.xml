@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" margin="2,0,0,0" bgColorEnabled="true" bgColor="#333333">
+  <displayList>
+    <image id="n17_ps4d" name="n17" src="ps4d6c" xy="0,0" size="640,1136"/>
+    <text id="n14_i8cp" name="lbl_login" xy="217,543" size="205,49" fontSize="40" color="#ffffff" text="登录游戏中"/>
+    <component id="n16_ps4d" name="btn_loading" src="k2ag4y" xy="265,429">
+      <Button icon="ui://etmmpiggi8cp68"/>
+    </component>
+  </displayList>
+</component>
